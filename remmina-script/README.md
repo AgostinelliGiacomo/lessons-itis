@@ -1,4 +1,5 @@
 #Questa è l'esercitazione che noi della 4^A dell'ITIS MERLONI MILIANI abbiamo svolto.
+
 # Configurazione di Remmina per MultiPoint@School
 
 NOTA: il precedente README.md con l'esercitazione per la classe 4AIS è stato spostato in ESERCITAZIONE.md nella stessa directory
@@ -7,8 +8,8 @@ NOTA: questo che state leggendo è simile alla vostra esercitazione, ma non lo �
 L'unica cosa da fare per raggiungere l'obiettivo è eseguire da terminale `sudo prepara_postazione.sh <IP MACCHINA VIRTUALE>`
 ad esempio: `sudo prepara_postazione.sh 10.2.60.100`
 
+#Questi sono stati gli obbiettivi che dovevamo raggiungere\
 ## Obiettivo
-#Questi sono stati gli obbiettivi che dovevamo raggiungere
 Questo progetto consente di configurare le macchine Ubuntu dell'IIS Merloni-Miliani
 di Fabriano (AN) per:
 
